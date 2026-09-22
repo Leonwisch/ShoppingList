@@ -40,3 +40,4 @@ Beitrag von Leon: Ich habe diese Reflextion geschrieben zusätzlich habe ich auc
 habe ich die Struktur für den Woekflow erstellt und habe die Pipelines getestet.
 
 Beitrag von Joshua:
+Er hat alles Programmier, also er hat alle Pieplines erstellt.
